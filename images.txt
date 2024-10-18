@@ -1,8 +1,8 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
+# 支持私库
+xhofe/alist:latest-ffmpeg
+# 支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-#首页导航
+# 首页导航
 itushan/mtab:latest
+# WeWe RSS 更优雅的微信公众号订阅方式，项目地址:https://github.com/cooderl/wewe-rss
+cooderl/wewe-rss:latest
