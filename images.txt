@@ -6,3 +6,4 @@ xhofe/alist:latest-ffmpeg
 itushan/mtab:latest
 # WeWe RSS 更优雅的微信公众号订阅方式，项目地址:https://github.com/cooderl/wewe-rss
 cooderl/wewe-rss:latest
+cooderl/wewe-rss-sqlite:latest
