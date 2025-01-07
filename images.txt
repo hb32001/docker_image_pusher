@@ -10,3 +10,4 @@ cooderl/wewe-rss-sqlite:latest
 ghcr.io/huginn/huginn
 louislam/dockge:latest
 chishin/nginx-proxy-manager-zh:latest
+nginx:alpine
